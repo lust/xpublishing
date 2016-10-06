@@ -28,8 +28,10 @@ Speech on publishing
 * output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.    
 
 ####Filter  
-
- > Filter, verb.  
+  
+https://www.youtube.com/watch?v=sgAwdixodjw  
+  
+> Filter, verb.  
    
 > 1/  
 > To pass (a liquid, gas, light, or sound) through a device to remove unwanted material.  
@@ -39,6 +41,7 @@ Speech on publishing
 > To process or assess (items) in order to reject those that are unwanted.  
 > *"you'll be put through to a secretary whose job it is to filter calls"*  
 > (COMPUTING) To process or treat with a filter.   
+>  
 > 2/  
 > To move slowly in a specified direction.  
 > *"the players filtered out on to the pitch"*  
@@ -53,8 +56,6 @@ Speech on publishing
 > Filter (of traffic) be allowed to pass to the left or right at a junction while traffic going straight ahead is halted.
 
 
-
-https://www.youtube.com/watch?v=sgAwdixodjw  
 
 ##Planning
 
