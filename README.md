@@ -6,8 +6,10 @@ It was created at the occasion of a 2 days workshop given by LUST with BA and MA
 ##Toolbox  
 
 **h2p**  
-pdf renderer using electron  
+pdf renderer back-end
 https://gitlab.com/krks_gbr/h2p-electron  
+pdf renderer front-end
+https://github.com/krksgbr/html2print
 
 **contextualised information**  
 grabbing data from website and pdf renderer using prince xml  
