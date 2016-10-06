@@ -33,10 +33,10 @@ Speech on publishing
 * the project will be made which one or many or all or none of those tool  
 * presentation of 15min for each group  
 * input: www  
-* from the notion of filter  
+* Your output will question the notion of filter*
 * output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.    
 
-####Filter  
+####\*Filter  
   
 https://www.youtube.com/watch?v=sgAwdixodjw  
   
