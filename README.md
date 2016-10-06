@@ -16,13 +16,13 @@ https://github.com/LenaRobin/diplome
 here in use for the series Theory on Demand by Institute of Network Cultures
 https://github.com/DigitalPublishingToolkit/TOD20-New-Aesthetics
 
-#Assignement
-We are all publishers. We read, organize, comment, curate, publish, all the time. We are citizen journalists.
--define a project which you are interested in
--the project will be made which one or many or all or none of those tool
--presentation of 15min for each group
--input: www
--from the notion of filter
-https://www.youtube.com/watch?v=sgAwdixodjw
+#Assignement  
+We are all publishers. We read, organize, comment, curate, publish, all the time. We are citizen journalists.  
+-define a project which you are interested in  
+-the project will be made which one or many or all or none of those tool  
+-presentation of 15min for each group  
+-input: www  
+-from the notion of filter  
+https://www.youtube.com/watch?v=sgAwdixodjw  
 -output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.
 
