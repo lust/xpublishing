@@ -36,8 +36,7 @@ https://www.youtube.com/watch?v=sgAwdixodjw
 > 1/  
 > To pass (a liquid, gas, light, or sound) through a device to remove unwanted material.  
 > *"the eye filters out ultraviolet radiation"*  
-> synonyms:  
-> sieve, strain, sift, filtrate, riddle;  
+> synonyms: sieve, strain, sift, filtrate, riddle;  
 > To process or assess (items) in order to reject those that are unwanted.  
 > *"you'll be put through to a secretary whose job it is to filter calls"*  
 > (COMPUTING) To process or treat with a filter.   
@@ -45,12 +44,10 @@ https://www.youtube.com/watch?v=sgAwdixodjw
 > 2/  
 > To move slowly in a specified direction.  
 > *"the players filtered out on to the pitch"*  
-> synonyms:  
-> seep, percolate, leak, trickle, ooze, dribble, bleed, flow;  
+> synonyms: seep, percolate, leak, trickle, ooze, dribble, bleed, flow;  
 > (of light or sound) enter a place slowly or in small quantities.  
 > *"sunlight filtered in through the thin curtains"*
-> synonyms:  
-> seep, percolate, leak, trickle, ooze, dribble, bleed, flow; 
+> synonyms: seep, percolate, leak, trickle, ooze, dribble, bleed, flow; 
 > Filter (of information) gradually become known.  
 > *"the news began to filter in from the hospital"*  
 > Filter (of traffic) be allowed to pass to the left or right at a junction while traffic going straight ahead is halted.
@@ -60,21 +57,21 @@ https://www.youtube.com/watch?v=sgAwdixodjw
 ##Planning
 
 ###Friday, 7th of October
-* Welcome + cafe  
-* Opening (Thomas)  
-* Presentations (Amir, Gabor, Léna, Jakob, Edwin)  
-* Lunch   
-* Introduction to the workshop  
-* Group discussions
-* Group work  
-* Round table, Q&A
-* Drinks :)    
+09:00 Welcome + cafe  
+09:30 Opening (Thomas)  
+10:00 Presentations (Amir, Gabor, Léna, Jakob, Edwin)  
+13:30 Lunch   
+14:30 Introduction to the workshop  
+15:00 Group discussions
+15:30 Group work  
+17:45 Round table, Q&A
+18:15 Drinks :)    
 
 ###Friday, 14th of October  
-* Welcome + cafe  
-* Group work    
-* Lunch    
-* Group work  
-* Presentations  
-* Wrap up    
-* Drinks :) 
+09:00 Welcome + cafe  
+09:30 Group work    
+13:30 Lunch    
+14:30 Group work  
+16:00 Presentations  
+17:45 Wrap up    
+18:15 Drinks :) 
