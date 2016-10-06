@@ -13,9 +13,18 @@ https://gitlab.com/krks_gbr/h2p-electron
 grabbing data from website and pdf renderer using prince xml  
 https://github.com/LenaRobin/diplome  
 
+**pandoc**
+markup convertor in command line  
+https://pandoc.org  
+
 **hybrid publishing toolkit**  
-here in use for the series Theory on Demand by Institute of Network Cultures  
+Hybrid publishing toolkit  
+https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Resources  
+Here in use for the series Theory on Demand by Institute of Network Cultures  
 https://github.com/DigitalPublishingToolkit/TOD20-New-Aesthetics  
+
+**soft camera/image processing**  
+http://fileunderpopular.com/soft-cameras/  
 
 ##Assignement  
 We are all publishers. We read, we write, organize, comment, curate, publish all the time. We are users.
