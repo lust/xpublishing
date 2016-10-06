@@ -9,7 +9,7 @@ It was created at the occasion of a 2 days workshop given by LUST with BA and MA
 In our digital realm, we consume and publish information every minute without even noticing it: we publish a picture on Instagram from the database of our smartphone, we post a comment on a newsfeed, we edit the description of our last item to sell on Ebay, we send an email to our friend…  
   
 We are all publishers. We read, we write, we organize, comment, curate, publish all the time. We are users. But as designers, we can also act on this and create new publishing tools in order to satisfy different needs.   
-This workshop aims to widen the scope of experimental forms of pubishing.         
+This workshop aims to widen the scope of experimental publishing, by considering new tools. This work will be based on the analysis of specific study cases defined by the students.         
 
 
 ##Toolbox  
