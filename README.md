@@ -1,6 +1,6 @@
-#xpublishing
+#Xp Publishing Workshop
 
-This repository contains references and resources on experimental publishing.
+This repository contains references and resources on experimental publishing.  
 It was created at the occasion of a 2 days workshop given by LUST with BA and MA students from Graphic Design Arnhem, Piet Zwart Institute ExPub and PublishingLab interns, in October 2016.
 
 
@@ -24,5 +24,6 @@ We are all publishers. We read, organize, comment, curate, publish, all the time
 -input: www  
 -from the notion of filter  
 https://www.youtube.com/watch?v=sgAwdixodjw  
--output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.
+-output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.    
+####Filter
 
