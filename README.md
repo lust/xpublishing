@@ -9,7 +9,11 @@ It was created at the occasion of a 2 days workshop given by LUST with BA and MA
 back-end
 https://gitlab.com/krks_gbr/h2p-electron  
 front-end
-https://github.com/krksgbr/html2print
+https://github.com/krksgbr/html2print  
+
+**if this then that**  
+free web-based service to create chains of simple conditional statement based on changes to other web services such as Gmail, Facebook, Instagram…  
+https://ifttt.com  
 
 **contextualised information**  
 grabbing data from website and pdf renderer using prince xml  
@@ -28,9 +32,15 @@ https://github.com/DigitalPublishingToolkit/TOD20-New-Aesthetics
 **soft camera/image processing**  
 http://fileunderpopular.com/soft-cameras/  
 
+##Purpose  
+*Publishing* comes from Latin *publicare*, which means 'to make public'. Whenever we convey a message, from a source to a destination, we encapsulate this data in a specific form that we chose regarding the use we have of it.   
+  
+In our digital realm, we consume and publish information evert minute without even noticing it: we publish a picture on Instagram from the database of our smartphone, we post a comment on a newsfeed, we edit the description of our last item to sell on Ebay, we send an email to our friend…  
+  
+We are all publishers. We read, we write, we organize, comment, curate, publish all the time. We are users. But as designers, we can also act on this and create new publishing tools in order to satisfy different needs.   
+This workshop aims to widen the scope of experimental forms of pubishing.         
+
 ##Assignement  
-We are all publishers. We read, we write, organize, comment, curate, publish all the time. We are users.
-Speech on publishing      
 * Define a project which you are interested in  
 * the project will be made which one or many or all or none of those tool  
 * presentation of 15min for each group  
