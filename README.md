@@ -4,9 +4,9 @@ This repository contains references and resources on experimental publishing.
 It was created at the occasion of a 2 days workshop given by LUST with BA and MA students from Graphic Design Arnhem, Piet Zwart Institute ExPub and PublishingLab interns, in October 2016.
 
 ##Purpose  
-*Publishing* comes from Latin *publicare*, which means 'to make public'. Whenever we convey a message, from a source to a destination, we encapsulate this data in a specific form that we chose regarding the use we have of it.   
+*Publishing* comes from Latin *publicare*, which means 'to make public'. Whenever we convey a message, from a source to a destination, we encapsulate this data in a specific form, chosen depending on our needs.   
   
-In our digital realm, we consume and publish information evert minute without even noticing it: we publish a picture on Instagram from the database of our smartphone, we post a comment on a newsfeed, we edit the description of our last item to sell on Ebay, we send an email to our friend…  
+In our digital realm, we consume and publish information every minute without even noticing it: we publish a picture on Instagram from the database of our smartphone, we post a comment on a newsfeed, we edit the description of our last item to sell on Ebay, we send an email to our friend…  
   
 We are all publishers. We read, we write, we organize, comment, curate, publish all the time. We are users. But as designers, we can also act on this and create new publishing tools in order to satisfy different needs.   
 This workshop aims to widen the scope of experimental forms of pubishing.         
