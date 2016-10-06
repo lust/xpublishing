@@ -5,4 +5,5 @@ It was created at the occasion of a 2 days workshop given by LUST with BA and MA
 
 
 ##h2p
+pdf renderer using electron
 https://gitlab.com/krks_gbr/h2p-electron
