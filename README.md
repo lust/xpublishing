@@ -18,7 +18,8 @@ here in use for the series Theory on Demand by Institute of Network Cultures
 https://github.com/DigitalPublishingToolkit/TOD20-New-Aesthetics
 
 ##Assignement  
-We are all publishers. We read, we write, organize, comment, curate, publish all the time. We are users.    
+We are all publishers. We read, we write, organize, comment, curate, publish all the time. We are users.
+Speech on publishing      
 * Define a project which you are interested in  
 * the project will be made which one or many or all or none of those tool  
 * presentation of 15min for each group  
@@ -26,34 +27,30 @@ We are all publishers. We read, we write, organize, comment, curate, publish all
 * from the notion of filter  
 * output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.    
 
-####Filter
+####Filter  
+
  > Filter, verb.  
    
-1.  
-To pass (a liquid, gas, light, or sound) through a device to remove unwanted material.  
-*"the eye filters out ultraviolet radiation"*  
-synonyms:  
-sieve, strain, sift, filtrate, riddle;  
-  
-To process or assess (items) in order to reject those that are unwanted.  
-*"you'll be put through to a secretary whose job it is to filter calls"*  
-(COMPUTING) To process or treat with a filter.  
-   
-2.  
-To move slowly in a specified direction.  
-*"the players filtered out on to the pitch"*  
-synonyms:  
-seep, percolate, leak, trickle, ooze, dribble, bleed, flow;  
-  
-(of light or sound) enter a place slowly or in small quantities.  
-*"sunlight filtered in through the thin curtains"*
-synonyms:  
-seep, percolate, leak, trickle, ooze, dribble, bleed, flow; 
-  
-Filter (of information) gradually become known.  
-*"the news began to filter in from the hospital"*  
-  
-Filter (of traffic) be allowed to pass to the left or right at a junction while traffic going straight ahead is halted.
+> 1/  
+> To pass (a liquid, gas, light, or sound) through a device to remove unwanted material.  
+> *"the eye filters out ultraviolet radiation"*  
+> synonyms:  
+> sieve, strain, sift, filtrate, riddle;  
+> To process or assess (items) in order to reject those that are unwanted.  
+> *"you'll be put through to a secretary whose job it is to filter calls"*  
+> (COMPUTING) To process or treat with a filter.   
+> 2/  
+> To move slowly in a specified direction.  
+> *"the players filtered out on to the pitch"*  
+> synonyms:  
+> seep, percolate, leak, trickle, ooze, dribble, bleed, flow;  
+> (of light or sound) enter a place slowly or in small quantities.  
+> *"sunlight filtered in through the thin curtains"*
+> synonyms:  
+> seep, percolate, leak, trickle, ooze, dribble, bleed, flow; 
+> Filter (of information) gradually become known.  
+> *"the news began to filter in from the hospital"*  
+> Filter (of traffic) be allowed to pass to the left or right at a junction while traffic going straight ahead is halted.
 
 
 
