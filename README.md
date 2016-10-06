@@ -57,21 +57,21 @@ https://www.youtube.com/watch?v=sgAwdixodjw
 ##Planning
 
 ###Friday, 7th of October
-09:00 Welcome + cafe  
-09:30 Opening (Thomas)  
-10:00 Presentations (Amir, Gabor, Léna, Jakob, Edwin)  
-13:30 Lunch   
-14:30 Introduction to the workshop  
-15:00 Group discussions
-15:30 Group work  
-17:45 Round table, Q&A
-18:15 Drinks :)    
+09:00 – Welcome + cafe  
+09:30 – Opening (Thomas)  
+10:00 – Presentations (Amir, Gabor, Léna, Jakob, Edwin)  
+13:30 – Lunch   
+14:30 – Introduction to the workshop  
+15:00 – Group discussions
+15:30 – Group work  
+17:45 – Round table, Q&A
+18:15 – Drinks :)    
 
 ###Friday, 14th of October  
-09:00 Welcome + cafe  
-09:30 Group work    
-13:30 Lunch    
-14:30 Group work  
-16:00 Presentations  
-17:45 Wrap up    
-18:15 Drinks :) 
+09:00 – Welcome + cafe  
+09:30 – Group work    
+13:30 – Lunch    
+14:30 – Group work  
+16:00 – Presentations  
+17:45 – Wrap up    
+18:15 – Drinks :) 
