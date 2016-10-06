@@ -46,7 +46,7 @@ http://fileunderpopular.com/soft-cameras/
 * the project will be made which one or many or all or none of those tool  
 * presentation of 15min for each group  
 * input: www  
-* Your output will question the notion of filter*
+* Your output will question the notion of ***Filter*** \*
 * output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.    
 
 ####\*Filter  
