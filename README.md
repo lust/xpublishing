@@ -42,12 +42,14 @@ https://github.com/DigitalPublishingToolkit/TOD20-New-Aesthetics
 http://fileunderpopular.com/soft-cameras/  
   
 ##Assignement  
-* Define a project which you are interested in  
-* the project will be made which one or many or all or none of those tool  
-* presentation of 15min for each group  
-* input: www  
-* Your output will question the notion of ***Filter*** \*
-* output: Project proposal, prototype, theoretical, theory, book, video, installation, song, program, text, poem, social network, platform, website, photograph, performance, movie, theater play, map, internet protocol, plain text or json.    
+* As part of a group, come up with the idea of a project of experimental publishing (a workflow), which has to be realised whith one {or many, or all, or none} of the tools presented during the workshop.  
+* Each workflow will require to designate clearly an input and an output.   
+* Input will be: the World Wide Web.  
+* Output will be: a proposal, a prototype, theoretical, a theory, a book, a video, an installation, a song, a program, a text, a poem, a social network, a platform, a website, a photograph, a performance, a movie, a theater play, a map, an internet protocol, a plain text or json.    
+* Each project will question the notion of ***Filter***.\*      
+* In the end of the workshop, each group will present its project in a short lecture of 15 min.  
+* Don't forget to keep track of your researches and experiments!
+
 
 ####\*Filter  
   
