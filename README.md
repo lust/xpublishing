@@ -5,10 +5,10 @@ It was created at the occasion of a 2 days workshop given by LUST with BA and MA
 
 ##Toolbox  
 
-**h2p**  
-pdf renderer back-end
+**h2p: render pdf from html**  
+back-end
 https://gitlab.com/krks_gbr/h2p-electron  
-pdf renderer front-end
+front-end
 https://github.com/krksgbr/html2print
 
 **contextualised information**  
