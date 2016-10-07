@@ -54,6 +54,11 @@ https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Resources
 Here in use for the series Theory on Demand by Institute of Network Cultures  
 https://github.com/DigitalPublishingToolkit/TOD20-New-Aesthetics  
 
+
+**world wide repository**
+https://github.com/martijndeheer/world-wide-repository
+
+
 **soft camera/image processing**  
 http://fileunderpopular.com/soft-cameras/  
   
