@@ -68,7 +68,7 @@ http://fileunderpopular.com/soft-cameras/
 * Input will be: the World Wide Web.  
 * Output will be: a proposal, a prototype, theoretical, a theory, a book, a video, an installation, a song, a program, a text, a poem, a social network, a platform, a website, a photograph, a performance, a movie, a theater play, a map, an internet protocol, a plain text or json.    
 * Each project will question the notion of ***Filter***.\*      
-* In the end of the workshop, each group will present its project in a short lecture of 15 min.  
+#* In the end of the workshop, each group will present its project in a short lecture of 15 min.  
 * Don't forget to keep track of your researches and experiments!
 
 
@@ -120,3 +120,10 @@ https://www.youtube.com/watch?v=sgAwdixodjw
 16:00 – Presentations  
 17:45 – Wrap up    
 18:15 – Drinks :) 
+
+
+##Framapad
+  
+https://annuel.framapad.org/p/xpublishing
+
+
