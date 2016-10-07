@@ -15,19 +15,19 @@ This workshop aims to widen the scope of experimental publishing, by considering
 ##Toolbox  
 
 **instagotwi**  
-python image scraper
+python image scraper  
 https://github.com/amirhouieh/instagotwi
 
 **goguess**  
-python caption generator using google image best guess.
+python caption generator using google image best guess.  
 https://github.com/amirhouieh/goguess
 
 **webgrider**  
-Nodejs module to draw the grid/backbone of any website.
+Nodejs module to draw the grid/backbone of any website.  
 https://github.com/amirhouieh/webgrider
 
 **webtypographer**  
-Nodejs module to analayze and visualizing the typography of any website.
+Nodejs module to analayze and visualizing the typography of any website.  
 https://github.com/amirhouieh/webtypographer
 
 **h2p: render pdf from html**  
