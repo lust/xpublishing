@@ -61,6 +61,10 @@ https://github.com/martijndeheer/world-wide-repository
 
 **soft camera/image processing**  
 http://fileunderpopular.com/soft-cameras/  
+
+**print a book from whatsapp with python+latex**  
+http://beckman.io/whatsapp-books-a-hackers-guide  
+
   
 ##Assignement  
 * As part of a group, come up with the idea of a project of experimental publishing (a workflow), which has to be realised whith one {or many, or all, or none} of the tools presented during the workshop.  
